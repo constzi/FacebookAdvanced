@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="info_text">Select genre:</string>
+    <string name="app_name">Netflix Top Rated Instant Play Films > 3 Stars</string>
+    <string name="no_results"></string>
+    <string name="back">&lt;&lt; go back</string>
+</resources>
